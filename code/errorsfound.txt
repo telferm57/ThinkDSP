@@ -1,0 +1,4 @@
+chap 02 
+doub 'we' in line:
+
+Put the shuffled phases back into the spectrum. Each element in hs is a complex number with magitude AA and phase ϕϕ, we we compute Aeiϕ
