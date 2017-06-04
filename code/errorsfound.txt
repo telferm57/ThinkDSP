@@ -2,3 +2,4 @@ chap 02
 doub 'we' in line:
 
 Put the shuffled phases back into the spectrum. Each element in hs is a complex number with magitude AA and phase ϕϕ, we we compute Aeiϕ
+excercise 2.2 seems odd - there already is a sawtooth class and the chap 02 notebook demonstrates the wave and spectrum 
